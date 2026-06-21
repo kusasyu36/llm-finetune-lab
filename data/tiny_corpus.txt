@@ -1,0 +1,10 @@
+the cat sat on the mat.
+the dog sat on the log.
+the cat ran to the dog.
+the dog ran to the cat.
+a cat and a dog sat on a mat.
+the sun is hot. the moon is cool.
+i like the cat. i like the dog.
+the cat likes the sun. the dog likes the moon.
+run cat run. sit dog sit.
+the mat is on the log. the log is on the mat.
